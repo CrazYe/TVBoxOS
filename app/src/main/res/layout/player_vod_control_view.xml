@@ -69,7 +69,7 @@
             android:paddingTop="@dimen/vs_20"
             android:paddingRight="@dimen/vs_20"
             android:tag="vod_control_pause_time"
-            android:text="00:00:00"
+            android:text="00年 00月 00日，周一 00:00:00"
             android:textColor="@android:color/white"
             android:textSize="@dimen/ts_24" />
 
