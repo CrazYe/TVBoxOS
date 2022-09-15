@@ -61,7 +61,7 @@
 
         <TextView
             android:id="@+id/tv_sys_time"
-            android:layout_width="wrap_content"
+            android:layout_width="120dp"
             android:layout_height="wrap_content"
             android:layout_gravity="right"
             android:ellipsize="end"
@@ -71,7 +71,7 @@
             android:tag="vod_control_pause_time"
             android:text="00:00:00"
             android:textColor="@android:color/white"
-            android:textSize="@dimen/ts_100" />
+            android:textSize="@dimen/ts_24" />
 
         <TextView
             android:id="@+id/tv_play_load_net_speed_right_top"
